@@ -1,4 +1,6 @@
 div{
     background-color: cadetblue;
     padding: 10px;
+    margin: 20px;
+    border: 10px dotted black;
 }
